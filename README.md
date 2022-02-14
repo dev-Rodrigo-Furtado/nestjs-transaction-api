@@ -19,7 +19,7 @@ Just run:
 # docker-compose up
 ```
 
-## Available Resources
+## Resources Available on AWS
 
 - GET localhost:3000/transactions
 - POST localhost:3000/transactions
